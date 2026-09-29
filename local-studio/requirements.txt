@@ -1,0 +1,14 @@
+# PyTorch se instala aparte con soporte CUDA (lo hace instalar.bat / instalar.sh)
+diffusers>=0.35.0
+transformers>=4.49.0
+accelerate>=1.2.0
+safetensors
+sentencepiece
+protobuf
+ftfy
+huggingface_hub
+gradio>=5.0
+pillow
+numpy
+imageio>=2.34
+imageio-ffmpeg
